@@ -14,15 +14,18 @@ XXX-ZengaExercies
 --ProjectSettings
 --UserSettings
 XXX = tên người làm bài tập
-#  Bài tập 0 ( Assets/Exercise1 )
+#  Bài tập 0 
+[Bài tập 0]( Assets/Exercise1 )
 Cho một camera, một cube, và một quad. Bấm giữ trái chuột và rê chuột trên bề mặt quad, box sẽ di chuyển trên bề mặt quad theo vị trí chuột 
 Yêu cầu:
 - Sử dụng Raycast
 - Không sử dụng OnMouseDrag
-# Bài tập Rotate 1 ( Assets/Exercise2 )
+# Bài tập Rotate 1
+[Bài tập 2]( Assets/Exercise2 )
 Cho một camera và một quad. Bấm giữ trái chuột và rê chuột trên bề mặt quad, quad sẽ xoay quanh tâm của nó theo vị trí chuột 
 Yêu cầu:
 - Sử dụng Raycast
 - Không sử dụng OnMouseDrag
-# Bài tập Rotate 2 ( Assets/Exercise3 )
+# Bài tập Rotate 2 
+[Bài tập 3]( Assets/Exercise3 )
 Cho một camera. Bấm giữ trái chuột và rê chuột ở bất cứ đâu, camera sẽ quay theo (chỉ quay trái phải), và có giới hạn trái, giới hạn phải. Lưu ý: đoạn xoay của camera phải tương ứng với đoạn rê của chuột, trên mọi kích thước màn hình. 
